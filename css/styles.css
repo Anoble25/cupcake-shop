@@ -1,0 +1,11 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: gold;
+  font-size: 30px;
+  font-family: cursive;
+  background-color: red;
+}
