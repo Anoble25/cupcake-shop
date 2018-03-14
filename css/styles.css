@@ -8,4 +8,11 @@
   font-size: 30px;
   font-family: cursive;
   background-color: red;
+  height:400px;
+}
+
+.imagesize{
+
+  height: 300px;
+  width: 300px;
 }
